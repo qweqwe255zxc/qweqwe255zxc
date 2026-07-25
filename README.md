@@ -19,6 +19,6 @@ I build full-stack apps with TypeScript and relational databases — currently g
 
 ## Reach me
 
-- GitHub — [@your-username](https://github.com/your-username)
-- Telegram — @your-handle
-- Email — your@email
+- GitHub — https://github.com/qweqwe255zxc
+- Telegram — @kustarnik228
+- Email — bakushin254@gmail.com
