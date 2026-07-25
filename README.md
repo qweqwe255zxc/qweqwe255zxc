@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @qweqwe255zxc
-- 👀 I’m interested in БРовь СТАСА
-- 🌱 I’m currently learning БРовь СТАСА
-- 💞️ I’m looking to collaborate on БРовь СТАСА
-- 📫 How to reach me БРовь СТАСА
-- 😄 Pronouns: БРовь СТАСА
-- ⚡ Fun fact: БРовь СТАСА
+# Bakushin
 
-<!---
-qweqwe255zxc/qweqwe255zxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Second-year Information Systems student, focused on **web development**.
+I build full-stack apps with TypeScript and relational databases — currently going deep on the Next.js + Prisma + PostgreSQL stack.
+
+## Tech
+
+- **Languages** — TypeScript · JavaScript · Python
+- **Frontend** — React · Next.js · HTML · CSS (Flexbox)
+- **Backend & Data** — Node.js · PostgreSQL · MySQL · Prisma ORM
+- **Tools** — Docker · Git · VS Code · 1C:Enterprise
+
+## What I'm working on
+
+- Building with **Next.js + Prisma 6 + PostgreSQL** — schema design, relations, driver adapters
+- Getting comfortable with **Docker** — Compose, networking, registries
+- Writing cleaner, strongly-typed code with TypeScript utility types
+- On the side: neural networks in **PyTorch** — built a few CNNs from scratch
+
+## Reach me
+
+- GitHub — [@your-username](https://github.com/your-username)
+- Telegram — @your-handle
+- Email — your@email
