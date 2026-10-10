@@ -1,8 +1,5 @@
 # Bakushin
 
-Second-year Information Systems student, focused on **web development**.
-I build full-stack apps with TypeScript and relational databases — currently going deep on the Next.js + Prisma + PostgreSQL stack.
-
 ## Tech
 
 - **Languages** — TypeScript · JavaScript · Python
