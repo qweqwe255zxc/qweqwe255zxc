@@ -5,7 +5,7 @@
 - **Languages** — TypeScript · JavaScript · Python
 - **Frontend** — React · Next.js · HTML · CSS (Flexbox)
 - **Backend & Data** — Node.js · PostgreSQL · MySQL · Prisma ORM
-- **Tools** — Docker · Git · VS Code · 1C:Enterprise
+- **Tools** — Docker · Git
 
 ## What I'm working on
 
