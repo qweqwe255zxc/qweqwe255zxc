@@ -17,5 +17,5 @@
 ## Reach me
 
 - GitHub — https://github.com/qweqwe255zxc
-- Telegram — @kustarnik228
+- Telegram — https://t.me/kustarnik228
 - Email — bakushin254@gmail.com
